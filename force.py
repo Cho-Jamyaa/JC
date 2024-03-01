@@ -24,5 +24,3 @@ elif missing_value_choice == "3":
     print(f"Force(F) = {F}")
 else:
     print("invalid option selected for the missing value.")
-
-    
