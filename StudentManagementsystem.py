@@ -3,7 +3,7 @@ students_list = []
 students_dict = {}
 
 #add student information
-name = input("Enter studnet's name: ")
+name = input("Enter student's name: ")
 age = input ("Enter student's age: ")
 grade = input ("enter student's grade")
 students_list.append(name)
