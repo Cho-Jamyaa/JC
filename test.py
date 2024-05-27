@@ -1,2 +1,3 @@
-print("Hola JC")
-print("bleh")
+print("Hello to myself")
+x="1"
+print(int(x))
